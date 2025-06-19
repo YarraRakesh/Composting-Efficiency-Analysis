@@ -1,0 +1,11 @@
+C_N_Ratio,Moisture,Aeration_Level,Type_Waste,Bin_Size,Decomposition_Time
+25,60,2,Mixed,10,25
+30,50,1,Vegetable,15,30
+20,70,3,Leaves,8,20
+28,65,2,Mixed,12,24
+26,55,1,Vegetable,10,28
+22,62,2,Mixed,11,26
+27,68,3,Leaves,9,22
+24,57,1,Vegetable,13,29
+29,63,2,Mixed,14,23
+21,58,1,Leaves,10,27
